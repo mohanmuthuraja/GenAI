@@ -32,7 +32,22 @@ git revert 2e987d3 ( previous version )
 
 ***********************************************
 to create git branch called dev ( under main branch of our git repo )
+
 git checkout -b dev
+
+git checkout -b test  (to create test branch )
+👨‍💻 Code
+git checkout dev
+
+🧪 Move to test
+git checkout test
+git merge dev
+git push
+
+🚀 Release to prod
+git checkout main
+git merge test
+git push
 
 
 ************************************************
