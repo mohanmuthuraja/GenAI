@@ -1,0 +1,66 @@
+1 . check how to link your git repo to your local VScode
+git config user.name
+git config user.email ( check these two )
+
+2. create a repo in Github "versionctrl" ( is the repo name created )
+
+2. 
+echo "# versionctrl" >> README.md
+git init
+git add README.md 
+	NOTE : [ git add . -- ( dot ) will add all files to git repo ) ]
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohanmuthuraja/versionctrl.git
+git push -u origin main
+
+
+3. below comment will give all commits wihch we have done before for this code
+git log --oneline
+
+4. to see older version
+git checkout e4f5g6h
+
+5. to remove git from local vs code
+rm -rf.git
+
+6. to revert back to previous version, write 
+git revert 2e987d3 ( previous version )
+
+7.git push origin main ( to push to the previous ( any previous ) version code to main branch 
+
+
+***********************************************
+to create git branch called dev ( under main branch of our git repo )
+git checkout -b dev
+
+
+************************************************
+scenario 1: 
+
+create DEV, TEST, PRD branches in Git
+move version 1 to Dev
+test 
+move version 1 to Test
+test
+move version 1 PRD
+test
+move version 1 to main ( back up )
+
+scenario 2:
+move version 2 to dev
+test
+move version 2 to test
+test
+move version 2 to PRD
+test
+move version 2 to main ( back up )
+
+scenario 3 :
+creat a version 3 and move to Dev
+test
+replace version 3 with version 2 in Dev
+test
+move updated code to Test
+test
+move updated code to PRD
