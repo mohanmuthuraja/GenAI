@@ -16,6 +16,7 @@ max_screenshots = 3
 
 print("Program started...")
 print("Click anywhere to take screenshot (Max 3).")
+a.sleep(2)  # Give user time to read the message
 
 def on_click(x, y, button, pressed):
     global screenshot_count
