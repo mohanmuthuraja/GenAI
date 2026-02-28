@@ -1,4 +1,7 @@
 # This script uses PyAutoGUI to take screenshots when the user clicks the mouse. It will save up to 3 screenshots in a folder named "meeting_screenshots".
+# Make sure to install the required libraries before running the script:
+# pip install pyautogui pynput 
+# pip install Pillow  # Required for image processing with PyAutoGUI
 import pyautogui as a
 from pynput import mouse
 from datetime import datetime
