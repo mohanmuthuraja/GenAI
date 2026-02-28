@@ -1,0 +1,280 @@
+Home
+About Us
+Course
+Community
+Outcomes
+Contact
+Join the next cohort
+Build Practical GenAI Skills With Mentors.
+Join the Next Cohort
+Download Brochure
+Mentor-led
+8+ Certifications
+Micro-SaaS Development
+Community Support
+Proof That Projects Pay Off
+
+When you build with intent, your portfolio speaks louder than your resume.
+
+3.2x
+Skill Value Boost
+
+Based on average outcome of GenAI project certifications
+
+0
+1
+2
+3
+4
+0
+1.6
+3.2
+
+Up to 3.2x perceived value on GitHub/LinkedIn endorsements
+
+₹20.6 lakhs
+Highest Freelance Income
+
+Highest reported freelance income by a learner in 2 months
+
+Median
+Average
+Top
+0
+12
+24
+
+Verified earnings via portfolio-led contracting
+
+300+
+Active Builders
+
+A rapidly growing community of GenAI learners and builders
+
+2025
+300+
+Growing Daily
+
+Members collaborating, sharing, and reviewing each other's projects
+
+Why You Should Learn GenAI
+
+AI isn't coming. It's here and it's changing how we create, analyse, build, and decide. But real learning isn't just about tools. It's about building what matters with them.
+
+Schedule a Call
+Learn Practically by Building
+Real AI
+GenAI Architect Program
+Build & deploy real GenAI apps in 8 weeks
+
+A hands-on, mentor-led program where you ship production-ready AI: RAG chatbots, agentic workflows, and automations. Learn Python & prompting, wire up tools with Flowise/LangGraph/AutoGen, automate with n8n, and finish with a portfolio-ready capstone. MCQ certification each module + DCS support (2 online + 2 offline).
+
+Apply for GenAI Architect Program
+Production Build Sprints
+Ship a Production-ready RAG + Agent in 48 hours
+
+A focused weekend sprint for SocialEagle learners and alumni. Pick a real use-case, implement retrieval with a vector DB, chain tools with Flowise/LangGraph/AutoGen, and deploy a live demo before Demo Hour. Includes mentor checkpoints, benchmarking, and product feedback.
+
+Register for the Sprint
+Autonomous Agents Challenge
+Build & benchmark autonomous AI agents
+
+Create self-running agents with AutoGen, CrewAI, or LangGraph, then wire up tools and memory, and compete on real-world tasks using our public leaderboard.
+
+Join the Leaderboard
+AI is the Future
+
+And the future belongs to Builders. Our mission is to turn you into one.
+
+80%
+
+AI adoption rate among top enterprises
+
+$10B+
+
+Investment in GenAI startups in 2024
+
+1st
+
+Most in-demand tech & product skill
+
+🚀
+And yet, almost no one is creating AI builders
+01
+Not enough attention is being paid to AI-specific skills
+02
+Little real experience building GenAI products
+03
+Limited exposure to AI for founders, leaders, and investors
+
+At SocialEagle.ai, we don’t just teach AI, we focus on the skills that turn learners into builders who thrive in the world of GenAI.
+
+APPLY NOW
+Why Social Eagle
+
+Transforming Builders into industry leaders
+
+Discover how Social Eagle transforms passionate Builders into industry-leading professionals through hands-on learning and real-world projects.
+
+GenAI Architect Community
+
+Transform your career with hands-on AI skills. Build production-ready applications, work with real datasets, and get mentored by industry experts.
+
+December-January
+
+Join Next Cohort
+
+Limited Spots Available • Next Cohort Starts Soon
+
+The GenAI Architect Program
+
+This is a step-by-step program designed specifically for working professionals who want to stay relevant in the AI era.
+
+We skip the theory, Skip the math, and teach you how to actually build and deploy GenAI tools using the same systems top companies are hiring for today.
+
+Even if you've never written a line of code.
+Even if you think AI is only for engineers.
+Even if you're not a "tech person."
+Even if you've tried before and didn't get far.
+Even if you've been out of school for 15 years.
+Even if you're starting from absolute zero.
+Join the GenAI Architect Program
+
+Limited Spots | New Cohort Opens Soon
+
+Your Journey to AI Mastery
+
+From ideation to deployment, experience the complete GenAI development lifecycle through hands-on challenges and real-world projects.
+
+Batch Kickoff
+
+You'll start your GenAI journey with immersive workshops and cohort introductions designed to form strong teams and ideas.
+
+Buildathon
+
+In this hands-on hackathon, teams ideate, prototype, and launch real GenAI tools in just 48 hours.
+
+Agent Showdown
+
+Compete to design the smartest autonomous agents using multi-modal reasoning and live demos.
+
+Micro-SaaS Launch
+
+Turn your ideas into revenue-ready AI-powered SaaS tools. Learn product thinking, rapid deployment, and GTM strategy.
+
+Syllabus of the AI Future
+Inside the Course
+
+We reverse-engineer our curriculum based on 8 industry-relevant skills that prepare you for the startup world.
+
+1
+Week 1
+→
+2
+Week 2
+3
+Week 3
+4
+Week 4
+5
+Week 5
+6
+Week 6
+7
+Week 7
+8
+Week 8
+Week 1
+
+Kick off with the right builder mindset and a solid programming base. Learn Python essentials and ship your first interactive ML UI using Streamlit and Flask.
+
+By the end of the program, you will:
+Write clean, modular Python for data and app backends
+Build & deploy a basic Streamlit dashboard and Flask API
+Adopt a rapid-iteration, outcome-driven builder mindset
+
+AI for Everyone - Market trends and adoption curves
+
+Programming fundamentals - Logical and assignment operators
+
+RPA concepts - Robotic Process Automation overview
+
+Tools You'll Learn
+
+Master the most in-demand AI tools and technologies used by industry professionals
+
+And many more cutting-edge tools in our comprehensive curriculum
+
+30+ Professional Tools & Platforms
+The Social Eagle Learning Experience
+
+Learn by building, collaborating, and launching. Our pedagogy is hands-on, community-led, and built with modern builders in mind.
+
+01
+Real-World Builders Curriculum
+
+Learn from curated, battle-tested frameworks and tools used by top content builders, marketers, and builders, all tailored for the builders economy.
+
+02
+Built for Modern Builders
+
+Access 100+ tools, workflows, and case studies for Instagram, YouTube, LinkedIn, newsletters, and monetization.
+
+03
+Build & Launch Projects
+
+Learn by doing. Launch real-time content experiments, product drops, and audience challenges throughout the program.
+
+Insights from SocialEagle.ai Mentors
+
+At SocialEagle, our mentors aren’t just teachers, they’re builders and leaders driving real-world change.
+
+Manoj Kumar V
+
+Students
+From Our SocialEagle.ai Community
+
+Real Stories, Real Impact — students sharing their transformative experiences and achievements
+
+Products Built From Our Community
+From SocialEagle.ai Community
+Hear Straight from Our Student Founders
+Watch Video
+Frequently Asked Questions
+Do I need a technical background to join?
+How long is the program and how many hours per week?
+Are sessions live or recorded?
+Will I earn a certificate?
+What will I build during the program?
+What tools or software do I need?
+Do you provide job placement or career support?
+Can I join from outside India and different time zones?
+Ready to level up your GenAI skills?
+
+Join a mentor-led community, ship real projects, and earn certifications.
+
+Join the next cohort
+Talk to us
+Company
+About Us
+Our Story
+Contact
+Programs
+AI Course
+Curriculum
+Outcomes
+Community
+Join Community
+Student Projects
+Success Stories
+Support
+Contact Us
+FAQs
+Privacy Policy
+Terms of Service
+Privacy
+Terms
+Contact
+© 2025 SocialEagle.ai. All rights reserved.
+Chat with us on WhatsApp
+6

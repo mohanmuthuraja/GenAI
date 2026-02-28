@@ -1,0 +1,14 @@
+A = int(input("enter first number"))
+B = int(input("enter the second number"))
+
+try:
+  def division(t,d):
+    c = t / d
+    return c
+except Exception as e:
+  raise e
+
+finally:
+    print("the result is", A + B)
+
+division(A,B)
