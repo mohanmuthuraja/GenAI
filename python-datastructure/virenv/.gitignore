@@ -1,0 +1,18 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.pyc
+venv/
+virenvrmnt/
+pyautoenv/
+
+# VS Code
+.vscode/
+
+# Screenshots
+meeting_screenshots/
+
+# OS
+Thumbs.db
+.DS_Store"virenv/" 
+"python-datastructure/virenv/" 
